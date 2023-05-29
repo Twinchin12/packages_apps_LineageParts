@@ -494,6 +494,8 @@
     <string name="status_bar_brightness_slider_show_always">Show always</string>
     <string name="status_bar_toggle_brightness">Brightness control</string>
     <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="qs_brightness_haptic_feedback_title">Haptic feedback</string>
+    <string name="qs_brightness_haptic_feedback_summary">Haptic feedback when adjusting brightness (Requires touch feedback to be enabled)</string>
 
     <!-- Protected apps -->
     <string name="protected_apps_manager_title">Protected apps</string>
