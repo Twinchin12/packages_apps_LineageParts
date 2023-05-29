@@ -115,6 +115,12 @@
             android:dependency="qs_show_brightness_slider"
             lineage:requiresConfig="@*android:bool/config_automatic_brightness_available"
             android:defaultValue="true" />
+            
+        <lineageos.preference.LineageSystemSettingSwitchPreference
+            android:key="brightness_slider_haptic_feedback"
+            android:title="@string/qs_brightness_haptic_feedback_title"
+            android:summary="@string/qs_brightness_haptic_feedback_summary"
+            android:defaultValue="false" />
 
         <!--
         <lineageos.preference.LineageSystemSettingSwitchPreference
